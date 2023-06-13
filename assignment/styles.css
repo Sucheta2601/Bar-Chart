@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+  }
+  
+  rect {
+    fill: rgb(87, 76, 214);
+  }
+    
+  rect:hover {
+      fill: rgb(73, 215, 99);
+  }
+  
